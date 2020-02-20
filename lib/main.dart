@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'price_screen.dart';
+import './coin_data.dart';
 
 void main() => runApp(MyApp());
 
