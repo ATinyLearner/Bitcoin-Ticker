@@ -10,6 +10,6 @@ App only runs but not usable now</br>
 ----------------------------</br>
 BetaV1</br>
 ----------------------------</br>
-App is now working with some cyptoCurrency rate along with all normal currency
-BTC,ETH and LTC is working with all money currency(i.e USD,INR,GBP etc)
-App is usable now
+App is now working with some cyptoCurrency rate along with all normal currency.</br>
+BTC,ETH and LTC is working with all money currency(i.e USD,INR,GBP etc)</br>
+App is usable now</br>
